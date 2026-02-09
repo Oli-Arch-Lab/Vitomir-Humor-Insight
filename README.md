@@ -1,9 +1,12 @@
-# Vitomir Humor & Insight
+# Vitomir Humor & Insight 🤖🫶
 
-A small collection of Vitomir-inspired wisdom and humor: short jokes, one-liners, and tiny sketches that pair insight with a wink. Use these as prompts, micro-essays, or lighthearted epigrams.
+## Purpose
+Blend **wisdom, humor, and AI-human reflection** to provoke thought.
 
-Structure
-- `jokes/` — Markdown files containing joke/wisdom sets.
-- `sketches/` — Optional images or diagrams illustrating a joke.
+## Sample Wisdom
+- “AI predicts patterns. You sense the unseen.”  
+- “Move with the sun, but keep your shadow in view.” 🌅  
+- “Listen more than you speak; the walls remember more than you think.” 🏚️
 
-Enjoy — and feel free to expand the collection.
+## How to Use
+Read a line each morning, reflect, and apply it in small daily decisions.
